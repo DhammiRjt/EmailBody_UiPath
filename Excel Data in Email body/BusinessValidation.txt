@@ -1,0 +1,10 @@
+﻿<tr><td>05/25/2023 00:00:00</td><td>Aadhaar Authentication Failed</td><td>FRM004</td><td>Response</td><td>Business validation</td><td>10</td></tr>
+<tr><td>05/25/2023 00:00:00</td><td>OTP entered by user is not valid</td><td>EKYC017</td><td>Response</td><td>Business validation</td><td>8</td></tr>
+<tr><td>05/25/2023 00:00:00</td><td>User has exhausted the number of attempts for generation of OTP. Kindly proceed by filling new fresh PAN application.</td><td>EKYC018</td><td>Response</td><td>Business validation</td><td>4</td></tr>
+<tr><td>05/25/2023 00:00:00</td><td>PAN entered by you is not present in Income Tax Department Database. You are requested to check after two days if PAN has been recently allotted by ITD else, please forward copy of PAN card at tininfo@nsdl.co.in.</td><td>FRM030</td><td>Response</td><td>Business validation</td><td>4</td></tr>
+<tr><td>05/25/2023 00:00:00</td><td>Aadhaar Authentication Failed</td><td>FRM004</td><td>Response</td><td>Business validation</td><td>2</td></tr>
+<tr><td>05/25/2023 00:00:00</td><td>Aadhaar Authentication Failed</td><td>FRM004</td><td>Response</td><td>Business validation</td><td>10</td></tr>
+<tr><td>05/25/2023 00:00:00</td><td>OTP entered by user is not valid</td><td>EKYC017</td><td>Response</td><td>Business validation</td><td>8</td></tr>
+<tr><td>05/25/2023 00:00:00</td><td>User has exhausted the number of attempts for generation of OTP. Kindly proceed by filling new fresh PAN application.</td><td>EKYC018</td><td>Response</td><td>Business validation</td><td>4</td></tr>
+<tr><td>05/25/2023 00:00:00</td><td>PAN entered by you is not present in Income Tax Department Database. You are requested to check after two days if PAN has been recently allotted by ITD else, please forward copy of PAN card at tininfo@nsdl.co.in.</td><td>FRM030</td><td>Response</td><td>Business validation</td><td>4</td></tr>
+<tr><td>05/25/2023 00:00:00</td><td>Aadhaar Authentication Failed</td><td>FRM004</td><td>Response</td><td>Business validation</td><td>2</td></tr>
