@@ -1,0 +1,1 @@
+"<tr><td>"+row("DT").tostring+"</td><td>"+row("STATUS_DESC").tostring+"</td><td>"+row("STATUS_CODE").tostring+"</td><td>"+row("REQUEST_TYPE").tostring+"</td><td>"+row("TYPE").tostring+"</td><td>"+row("CNT").tostring+"</td></tr>"
